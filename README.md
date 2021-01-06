@@ -1,2 +1,5 @@
 # Hello-World
-Short repository
+
+Hi Humans!
+
+Currently learning/working on Python
